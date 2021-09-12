@@ -1,7 +1,8 @@
 ﻿
 # Pump it Up : Data Mining the Water Table
 
-All training and testing data re stored on github. Development was done in Google Colab which can be found [here](https://colab.research.google.com/drive/11xTIt5BTRvcKlSFzSNjcerl2YuA2-RbB?usp=sharing). 
+
+The repository is stored on github which can be found [here](https://github.com/hwupathum/pumpitup). 
 
 ## Analysing data
 
